@@ -1,2 +1,2 @@
-# Predicci-n-alimentos
-En este repositorio se hace un análisis de las tendencias de los alimentos, la correlación que existe entre la subida de los alimentos y un número de variables.  También se entrena un modelo para hacer una predicción de los precios de ciertos productos
+# Predicción alimentos
+En este repositorio se hace un análisis de las tendencias de los precios de los alimentos, la correlación que existe entre la subida de los alimentos y variables como el precio de los combustibles, las temperaturas, las precipitaciones o el precio de la electricidad, en el que también se ha podido comprobar si existe correlación entre el precio del gas, la electricidad y las temperaturas. También se entrena un modelo para hacer una predicción de los precios de ciertos productos según sus variables.
